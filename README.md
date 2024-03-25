@@ -24,6 +24,6 @@ THEN I find a concise, descriptive title
 
 ## Links to Deployed Application and GitHub:
 
-GitHub: 
-Deployed Application: 
+GitHub: https://github.com/Asanc005/Horiseon-Challenge-1
+Deployed Application: https://asanc005.github.io/Horiseon-Challenge-1/
 
